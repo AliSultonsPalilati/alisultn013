@@ -5,6 +5,5 @@ Nama saya Ali sulton s Palilati, saya kuliah di universitas muhammadiyah makassa
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" >
 
 
-- 🔭 I’m currently working with many [organizations](https://coconut.or.id/contact)
 - 🌱 I’m currently learning new things
 - 📫 How to reach me: [Instagram](https://www.instagram.com/alsultn._/?next=%2F)
